@@ -25,12 +25,15 @@ spiderman   0.000GB
 test_1      0.000GB
 
 > use empdetails
+
 switched to db empdetails
 
 > show collections
+
 emps
 
 > db.emps.find()
+
 { "_id" : "sudan.kanakavel@maplebots.com", "name" : "sudanvellakovil kanakavel", "age" : 29, "__v" : 0 }
 > 
 
