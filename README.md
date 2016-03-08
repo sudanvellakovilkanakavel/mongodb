@@ -6,17 +6,6 @@ OUTPUT
 
 > show dbs
 
-
-Company     0.000GB
-empdetails  0.000GB
-local       0.000GB
-mydb100     0.000GB
-spiderman   0.000GB
-test_1      0.000GB
-
-
-> show dbs
-
 Company     0.000GB
 empdetails  0.000GB
 local       0.000GB
